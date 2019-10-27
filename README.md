@@ -2,7 +2,7 @@
 
 The K-Means algorithm is implemented to cluster a matrix into K clusters. 
 
-The input image used is grayscale image of dimension 800x800 stored in *input.raw* file. Two different cluster sizes are used.
+The input image used is grayscale image of dimension 800x800 stored in *input.raw* file. 
 The convergence is attained after certain number of iterations. Instead of random initial mean values, predefined values are set.
 The cluster size is 6 with initial mean values {0, 65, 100, 125, 190, 255}. 
 The convergence is set at the iteration is 50 and then terminated to produce output image *output.raw*.
