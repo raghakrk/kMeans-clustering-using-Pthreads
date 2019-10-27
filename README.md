@@ -1,4 +1,4 @@
-# KMEAN-CLUSTERING-using-parrallel-algorithms
+# KMEAN-CLUSTERING-using-Pthreads
 
 The K-Means algorithm is implemented to cluster a matrix into K clusters. 
 
